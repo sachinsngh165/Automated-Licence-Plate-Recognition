@@ -10,7 +10,7 @@ def recognize_plate(plate):
     
     
     # Apply filters to remove noise 
-    med_blur = cv2.medianBlur(grayscale,3)
+    med_blur = cv2.medianBlur(grayscale,1)
     blur = cv2.GaussianBlur(med_blur,(3,3),0)
     
      # Convert image to binary image

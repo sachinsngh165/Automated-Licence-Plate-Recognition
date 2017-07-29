@@ -39,11 +39,12 @@ for ctr in cnts:
 	box = np.int0(box)
 	plate = crop_Rect(img,rect,box)
 
+	cv2.imshow("plate ", plate)
 
-	temp = img.copy()
-	cv2.drawContours(temp,[box],0,(0,255,0),2)
-	cv2.imshow("processing ", temp)
-	cv2.waitKey(5)
+	# temp = img.copy()
+	# cv2.drawContours(temp,[box],0,(0,255,0),2)
+	# cv2.imshow("processing ", temp)
+	# cv2.waitKey(5)
 
 
 # Recognize the number plate from extracted contours
