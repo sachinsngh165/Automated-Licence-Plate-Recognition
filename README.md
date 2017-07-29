@@ -13,7 +13,7 @@ Tesseract LSTM based 4.00.00 alpha version has been used for this ALPR system an
  "eng.traineddata"  is used as a training data .
 
  ## Usage
- ''' sh 
+ '''sh 
 $ python main.py -q image_name
 
  '''
