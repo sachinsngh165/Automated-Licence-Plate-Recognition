@@ -14,6 +14,7 @@ Tesseract LSTM based 4.00.00 alpha version has been used for this ALPR system an
 
  ## Usage
  '''sh 
+ 
 $ python main.py -q image_name
 
  '''
