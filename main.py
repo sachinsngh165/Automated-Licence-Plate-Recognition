@@ -26,11 +26,12 @@ scale = 700.0/max_dimension
 #resize it. same width and hieght none since output is 'image'.
 img = cv2.resize(img, None, fx=scale, fy=scale)
 
-# Find Top 5 possible Contours from given image
+# Find Most possible Contours from given image
 cnts = segment.segment_plate(img)
 
-
+result = ""
 # Find number plate from all the contours and recognise it
+
 for ctr in cnts:
 
 	rect = (cv2.minAreaRect(ctr))
@@ -38,21 +39,29 @@ for ctr in cnts:
 	box = np.int0(box)
 	plate = crop_Rect(img,rect,box)
 
+
+	temp = img.copy()
+	cv2.drawContours(temp,[box],0,(0,255,0),2)
+	cv2.imshow("processing ", temp)
+	cv2.waitKey(5)
+
+
 # Recognize the number plate from extracted contours
 	result = recognize.recognize_plate(plate)
 
 # if number plate is valid print number plate and draw Region
 	if len(result) > 5:
 		box = np.int0(box)
-		cv2.imshow("plate ", plate)
-		cv2.waitKey()
 		cv2.drawContours(img,[box],0,(0,255,0),2)
 		print('Detected Licence Plate Number : %s')%format(result)
 		break
 
+if len(result) < 5:
+	print ' Unable to extract plate area ! '
+else:
+	cv2.imshow("Detected Number Plate ", img)
+	print " ! Press Any Key "
+	cv2.waitKey()
 
-
-cv2.imshow("Detected Number Plate ", img)
-cv2.waitKey()
 cv2.destroyAllWindows()
 
