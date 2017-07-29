@@ -1,0 +1,1077 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cr",
+				"croppedRotated"
+			],
+			[
+				"cro",
+				"crop_minAreaRect"
+			],
+			[
+				"ima",
+				"image_name"
+			],
+			[
+				"char",
+				"char"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"ma",
+				"mask_close"
+			],
+			[
+				"rez",
+				"resized_im"
+			],
+			[
+				"mask",
+				"mask_open"
+			],
+			[
+				"tr",
+				"try\tTry/Except"
+			],
+			[
+				"resi",
+				"resized_im"
+			],
+			[
+				"th",
+				"thresh"
+			],
+			[
+				"C",
+				"COLOR_BGR2GRAY"
+			],
+			[
+				"cv",
+				"cvtColor"
+			],
+			[
+				"rec",
+				"rectangle"
+			],
+			[
+				"plate",
+				"plate_number"
+			],
+			[
+				"ge",
+				"get_plate_area"
+			],
+			[
+				"g",
+				"gaus_blur"
+			],
+			[
+				"bin",
+				"bin_img"
+			],
+			[
+				"dil",
+				"dilation"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"sc",
+				"screenCnt"
+			],
+			[
+				"q",
+				"queryset_list"
+			],
+			[
+				"ran",
+				"range"
+			],
+			[
+				"sor",
+				"sorted"
+			],
+			[
+				"s",
+				"summing"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"pa",
+				"panel"
+			],
+			[
+				"vi",
+				"visible-xs"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"col",
+				"col-sm-8"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"bt",
+				"btn-lg"
+			],
+			[
+				"form",
+				"form-inline"
+			],
+			[
+				"c",
+				"col-md-6"
+			],
+			[
+				"a",
+				"active"
+			],
+			[
+				"co",
+				"col"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Ca",
+				"category"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"ot",
+				"output_file"
+			],
+			[
+				"out",
+				"output_file"
+			],
+			[
+				"i",
+				"input_file"
+			],
+			[
+				"t",
+				"thumbnail"
+			],
+			[
+				"thu",
+				"thumb_filename"
+			],
+			[
+				"j",
+				"jpeg_bin"
+			],
+			[
+				"old",
+				"old_file"
+			],
+			[
+				"od",
+				"old_file"
+			],
+			[
+				"Ht",
+				"HttpResponse"
+			],
+			[
+				"is",
+				"is_superuser"
+			],
+			[
+				"T",
+				"True"
+			],
+			[
+				"F",
+				"False"
+			],
+			[
+				"thumn",
+				"thumb_filename"
+			],
+			[
+				"te",
+				"temp_thumb"
+			],
+			[
+				"o",
+				"outFileName"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"e",
+				"ebook"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"pr",
+				"prgm"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"em",
+				"emp"
+			],
+			[
+				"up",
+				"upload_dir"
+			],
+			[
+				"Pos",
+				"PostForm"
+			],
+			[
+				"fi",
+				"filename"
+			],
+			[
+				"url",
+				"urllib"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"li",
+				"links"
+			],
+			[
+				"me",
+				"material-icons"
+			],
+			[
+				"fo",
+				"form-group"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"Tur",
+				"True"
+			],
+			[
+				"f",
+				"forms"
+			],
+			[
+				"fr",
+				"from_email"
+			],
+			[
+				"Po",
+				"POST"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"Si",
+				"SignUp"
+			],
+			[
+				"get",
+				"get_absolute_url"
+			],
+			[
+				"br",
+				"brand-logo"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"Ma",
+				"Material-Icons"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"Sig",
+				"SignUpModelAdmin"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"pos",
+				"post_list"
+			],
+			[
+				"nae",
+				"namespace"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"find",
+				"find_all"
+			],
+			[
+				"fin",
+				"findAll"
+			],
+			[
+				"m",
+				"movie_youtube_trailor_url"
+			],
+			[
+				"mi",
+				"min_amt"
+			],
+			[
+				"n",
+				"num"
+			],
+			[
+				"nu",
+				"num-i"
+			],
+			[
+				"d",
+				"draw_triangle"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"sa",
+				"sagar"
+			],
+			[
+				"fil",
+				"file_list"
+			],
+			[
+				"r",
+				"root"
+			],
+			[
+				"In",
+				"Insertion"
+			],
+			[
+				"I",
+				"Inorder"
+			],
+			[
+				"Delet",
+				"Delete"
+			],
+			[
+				"dl",
+				"delete_node"
+			],
+			[
+				"rt",
+				"right"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fa",
+				"factdp"
+			],
+			[
+				"min",
+				"min"
+			],
+			[
+				"L",
+				"LinkedList"
+			],
+			[
+				"Crea",
+				"CreateLinkedList"
+			],
+			[
+				"no",
+				"newnode"
+			],
+			[
+				"post",
+				"postfix_traversal"
+			],
+			[
+				"ne",
+				"newNode"
+			],
+			[
+				"pt",
+				"ptr"
+			],
+			[
+				"En",
+				"Enqueue"
+			],
+			[
+				"ra",
+				"rear"
+			],
+			[
+				"rea",
+				"rear"
+			],
+			[
+				"M",
+				"Mammals"
+			],
+			[
+				"en",
+				"end"
+			],
+			[
+				"be",
+				"beg"
+			],
+			[
+				"new",
+				"newnode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 868,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "import cv2\nimport numpy as np\n\ndef crop_minAreaRect(img, rect):\n\n    # rotate img\n    angle = rect[2]\n    rows,cols = img.shape[0], img.shape[1]\n    M = cv2.getRotationMatrix2D((cols/2,rows/2),angle,1)\n    img_rot = cv2.warpAffine(img,M,(cols,rows))\n\n    # rotate bounding box\n    rect0 = (rect[0], rect[1], 0.0)\n    box = cv2.boxPoints(rect)\n    pts = np.int0(cv2.transform(np.array([box]), M))[0]    \n    pts[pts < 0] = 0\n\n    # crop\n    img_crop = img_rot[pts[1][1]:pts[0][1], \n                       pts[1][0]:pts[2][0]]\n\n    return img_crop",
+			"file": "crop_image.py",
+			"file_size": 546,
+			"file_write_time": 131455373150000000,
+			"settings":
+			{
+				"buffer_size": 545,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "import cv2"
+			}
+		},
+		{
+			"file": "segment.py",
+			"settings":
+			{
+				"buffer_size": 1480,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "recognize.py",
+			"settings":
+			{
+				"buffer_size": 590,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"ls",
+			"print \"hello\"",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR/segmentation.py",
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR/main.py",
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR/alpr_v7.py",
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR/alpr_v5.py",
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR/extract_text.py",
+		"/Users/sachinsingh/Downloads/nsitulator_marks (4).json",
+		"/usr/local/share/tessdata/configs/digits",
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR /recognize.py",
+		"/Users/sachinsingh/Desktop/ML/projects/handwritten_dig/performRecognition.py",
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR /segmentation.py",
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR /main.py",
+		"/Users/sachinsingh/tesseract/config.log",
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR /performRecognition.py",
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR /alpr_v6.py",
+		"/Users/sachinsingh/Downloads/pokedex-find-screen-part-1/find_screen.py",
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR /alpr_v5.py",
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR /demo.py",
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR /test.py",
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR /alpr_v4.py",
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR /alpr_v7.py",
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR /print_plate_number",
+		"/Users/sachinsingh/Desktop/ML/projects/digit_detection/main.py",
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR /untitled.py",
+		"/Users/sachinsingh/Desktop/ML/projects/face_detection/cam.py",
+		"/Users/sachinsingh/Desktop/ML/projects/face_detection/main.py",
+		"/Users/sachinsingh/Desktop/Development/Python/segmentation.py",
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR /blob_detection.py",
+		"/Users/sachinsingh/Desktop/ML/projects/ALPR /blob_detection",
+		"/Users/sachinsingh/Desktop/ML/projects/handwritten_dig/timages/res.sh",
+		"/Users/sachinsingh/Desktop/sub",
+		"/Users/sachinsingh/Desktop/Github/producer_consumer.cpp",
+		"/Users/sachinsingh/Desktop/producer_consumer.cpp",
+		"/Users/sachinsingh/Temp/os/producer_consumer.cpp",
+		"/Users/sachinsingh/Temp/adc/producer_consumer.cpp",
+		"/Users/sachinsingh/Temp/adc/srtf2.cpp",
+		"/Users/sachinsingh/Desktop/os/sstf_disk_scheduling.cpp",
+		"/Users/sachinsingh/Desktop/os/fcfs_disk_scheduling.cpp",
+		"/Users/sachinsingh/Downloads/os/FCFS_Scheduling_algo.cpp",
+		"/Users/sachinsingh/Downloads/os/sjf_nonpre.cpp",
+		"/Users/sachinsingh/Downloads/os/srtf.cpp",
+		"/Users/sachinsingh/Downloads/os/srtf2.cpp",
+		"/Users/sachinsingh/Downloads/os/Priority_pre-1.cpp",
+		"/Users/sachinsingh/Downloads/os/priority_pre.cpp",
+		"/Users/sachinsingh/Downloads/os/round_robin_q.cpp",
+		"/Users/sachinsingh/Downloads/os/producer_consumer.cpp",
+		"/Users/sachinsingh/Downloads/os/fcfs_page_replacement.cpp",
+		"/Users/sachinsingh/Downloads/os/lru_page_replacement.cpp",
+		"/Users/sachinsingh/Downloads/os/fcfs_disk_scheduling.cpp",
+		"/Users/sachinsingh/Downloads/os/sstf_disk_scheduling.cpp",
+		"/Users/sachinsingh/Downloads/os/producer_consumer.c",
+		"/Users/sachinsingh/Downloads/os/Round_robin.cpp",
+		"/Users/sachinsingh/Desktop/ML/CodingBlocks/Class_21/TextGen.py",
+		"/Users/sachinsingh/Desktop/Cohen_Clipping.cpp",
+		"/Users/sachinsingh/Desktop/ML/CodingBlocks/Class_21/Journal of a West India ",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php",
+		"/Users/sachinsingh/Desktop/test.html",
+		"/Users/sachinsingh/Desktop/ML/Workspace/out.csv",
+		"/Users/sachinsingh/Desktop/Operating System Lab/Experiment3/SRTF(preemptive_sjf).c",
+		"/Users/sachinsingh/Desktop/Operating System Lab/Experiment4/preemprtive_priority_scheduline.c",
+		"/Users/sachinsingh/Desktop/Operating System Lab/Experiment3/SRTF(non_preemptive_sjf).c",
+		"/Users/sachinsingh/Desktop/Operating System Lab/Experiment4/SRTF(non_preemptive_sjf).c",
+		"/Users/sachinsingh/Downloads/ic_add_circle_black_24px.svg",
+		"/Users/sachinsingh/Desktop/kivy/test.py",
+		"/Users/sachinsingh/Desktop/kivy/buildozer.spec",
+		"/Users/sachinsingh/Desktop/kivy/scatter.kv",
+		"/Users/sachinsingh/Desktop/kivy/main.py",
+		"/Users/sachinsingh/Desktop/kivy/login_kivy.py",
+		"/Users/sachinsingh/Desktop/kivy/hello_kivy.py",
+		"/Users/sachinsingh/Desktop/ML/class_3/main.py",
+		"/Users/sachinsingh/Desktop/ML/class_3/cam.py",
+		"/Users/sachinsingh/Desktop/ML/cb/class_03/haarcascade_frontalface_default.xml",
+		"/Users/sachinsingh/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/95FBF5B7-2498-4E55-9446-16A1C3104280/cam.py",
+		"/Users/sachinsingh/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/E0094975-1EE7-4216-9CF8-6EBA3E5BB2D5/main.py",
+		"/Users/sachinsingh/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/E43592E8-6C43-4FF9-A48D-862D871F04DE/cam.py",
+		"/Users/sachinsingh/Desktop/ML/cb/class_03/cam.py",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/bookapp/views.py",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/includes/nav_bar.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/test.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/includes/side_bar.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/bookapp/urls.py",
+		"/Users/sachinsingh/Desktop/Operating System Lab/Experiment 2/Gantt.c++",
+		"/Users/sachinsingh/Desktop/Operating System Lab/Experiment 2/SJF.c++",
+		"/Users/sachinsingh/Desktop/My_Blog/bookapp.sublime-project",
+		"/Users/sachinsingh/Downloads/TurboC-source/Programs/circle.c",
+		"/Users/sachinsingh/Desktop/ML/add.py",
+		"/Users/sachinsingh/Desktop/Operating System Lab/Experiment 2/SchedulingAlgo.c++",
+		"/Users/sachinsingh/Desktop/ML/file.txt",
+		"/Users/sachinsingh/Desktop/ML/basics.py",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/header.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/base.html",
+		"/Users/sachinsingh/Desktop/Operating System Lab/Gantt.c++",
+		"/Users/sachinsingh/Desktop/Operating System Lab/SchedulingAlgo.c++",
+		"/Users/sachinsingh/Downloads/stickUp-master/example/index.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/includes/head.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/home.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/includes/footer.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/post_details.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/show_category.html",
+		"/Users/sachinsingh/Downloads/stickUp-master/stickUp.js",
+		"/Users/sachinsingh/Downloads/stickUp-master/example/stickup.css",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/menus/context_processors.py",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/django19/settings.py",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/includes/htmlsnippet.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/django19/urls.py",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/bookapp/models.py",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/post_list.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/django19/urls.pyc.py",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/category.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/header1.html",
+		"/Users/sachinsingh/Desktop/My_Blog/test.py",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/bookapp/templatetags/urlify.py",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/paginator.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/bookapp/templatetags/paginator.py",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/_pagination.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/bookapp/templatetags/paginator_tag.py",
+		"/Users/sachinsingh/Desktop/pdftojpeg.py",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/bookapp/forms.py",
+		"/Users/sachinsingh/Desktop/pdftojpg.py",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/bookapp/migrations/__init__.pyc",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/bookapp/admin.py",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/update_form.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/post_form.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/contact_form.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/bookapp/templates/includes/nav_bar.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/django19/wsgi.py",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/templates/registration/login.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/bookapp/templates/test.html",
+		"/Users/sachinsingh/Desktop/My_Blog/django19/bookapp/templates/post_list.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/sachinsingh/Desktop/My_Blog/django19",
+			"/Users/sachinsingh/Desktop/My_Blog",
+			"/Users/sachinsingh/Desktop/My_Blog/django19/bookapp/templates/registration",
+			"/Users/sachinsingh/Desktop/My_Blog/django19/bookapp",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"35",
+			"print",
+			"()",
+			">\n",
+			"down",
+			"block",
+			"\">",
+			"TEMPLATE_CONTEXT_PROCESSORS",
+			"namespace",
+			"]",
+			"namespace",
+			"SimpleUploadedFile",
+			"updating",
+			"?')\n",
+			")\n",
+			"img",
+			"Developer",
+			"\")\n",
+			")\n",
+			">\n",
+			"%}\n",
+			"\t\t<!--",
+			"header",
+			"base",
+			"\")\n",
+			"id",
+			"        ",
+			"email",
+			"signup",
+			"int",
+			"tri",
+			"root",
+			"lroot",
+			"turn",
+			"booldp",
+			"unsigned int",
+			"));\nunsigned int",
+			"));\n",
+			"node",
+			"\";\n",
+			"Queue",
+			"South",
+			"North",
+			"West",
+			"East",
+			"KandaneSouth",
+			"max",
+			"head",
+			"tr",
+			";\n",
+			"ll",
+			"int"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"base",
+			"header",
+			"long long",
+			"obj",
+			"temp",
+			"ptr",
+			"boolfactdp",
+			"ll",
+			"ptr",
+			"Queue_Q",
+			"North",
+			"South",
+			"min",
+			"td",
+			"long int"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								551,
+								551
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "crop_image.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import cv2",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "segment.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1019,
+								1019
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 160.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "recognize.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								571,
+								571
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 149.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 270.0
+	},
+	"output.find_results":
+	{
+		"height": 28.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "alpr.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"django19/bookapp/models.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
